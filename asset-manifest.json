@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/Practica-React-Hooks/static/js/main.7524d84b.chunk.js",
+    "main.js.map": "/Practica-React-Hooks/static/js/main.7524d84b.chunk.js.map",
+    "runtime-main.js": "/Practica-React-Hooks/static/js/runtime-main.e335ee3f.js",
+    "runtime-main.js.map": "/Practica-React-Hooks/static/js/runtime-main.e335ee3f.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/Practica-React-Hooks/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.f1a64c17.chunk.js": "/Practica-React-Hooks/static/js/2.f1a64c17.chunk.js",
+    "static/js/2.f1a64c17.chunk.js.map": "/Practica-React-Hooks/static/js/2.f1a64c17.chunk.js.map",
+    "index.html": "/Practica-React-Hooks/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/Practica-React-Hooks/static/css/2.0a9ec390.chunk.css.map",
+    "static/js/2.f1a64c17.chunk.js.LICENSE.txt": "/Practica-React-Hooks/static/js/2.f1a64c17.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e335ee3f.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.f1a64c17.chunk.js",
+    "static/js/main.7524d84b.chunk.js"
+  ]
+}
